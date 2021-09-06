@@ -1,5 +1,5 @@
 <img src="https://i.gifer.com/2DYg.gif" width="70" target="_blank">
-<!-- https://i.gifer.com/2DYg.gif -->
+<img src="https://gifer.com/embed/2DYg" width=480 height=312.000 frameBorder="0" allowFullScreen><p><a href="https://gifer.com">via GIFER</a></p>
 <br />
 <!-- align="center" -->
 <hr/> 
