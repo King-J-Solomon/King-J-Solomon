@@ -1,5 +1,4 @@
-<img src="https://i.gifer.com/2DYg.gif" width="70" target="_blank">
-<img src="https://gifer.com/embed/2DYg" width=480 height=312.000 frameBorder="0" allowFullScreen>
+<h1>My Name Is JUNAID SOLOMON</h1>
 <br />
 <!-- align="center" -->
 <hr/> 
