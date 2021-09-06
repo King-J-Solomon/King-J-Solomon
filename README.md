@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/2DYg.gif">
+<img src="https://i.gifer.com/2DYg.gif" width="70" target="_blank">
 <!-- <br /> -->
 <!-- align="center" -->
 <hr/> 
